@@ -57,21 +57,10 @@ main {
 /**
  * Add the correct margin in IE 8.
  */
-<<<<<<< HEAD
 figure {
   margin: 1em 2%;
   text-align: center; }
 
-=======
-@media only screen and (max-width: 400px) {
-  figure {
-    margin: 1em 1px;
-    text-align: center; } }
-@media only screen and (min-width: 400px) and (max-width: 1050px) {
-  figure {
-    margin: 1em 40px;
-    text-align: center; } }
->>>>>>> 376a8e59f6e8a606bb9bfd80f4df5a0d79675b3e
 /**
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
