@@ -8,7 +8,9 @@ permalink: /about/
   <div class="about_box">
     <div class="author">
         <div class="author_image">
-          <img src="{{site.baseurl}}/assets/images/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="Author image">
+          <a href="{{site.url}}/about">
+            <img src="{{site.baseurl}}/assets/images/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="Author image">
+          </a>
         </div>
         <div class="author_info">
           <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Atom{% endif %}</h2>
