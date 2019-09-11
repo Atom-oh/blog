@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Zealand: QueensTown"
-img: 1566186643382.jpg # Add image post (optional)
+img: 2019-08-12-newzealand-queenstown/1566186643382.jpg # Add image post (optional)
 date: 2019-08-12 1:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, NewZealand, QueensTown]
@@ -25,34 +25,36 @@ tag: [Travel, NewZealand, QueensTown]
 
 산책을 마치고 역시 빠질수 없는 고기~!
 
-![QueensTown]({{ "/assets/images/1566186634738.jpg" | relative_url }}){: width="100%" height="100%"}
+![map]({{ "assets/images/2019-08-12-newzealand-queenstown/Screenshot_20190911-181755_Maps.jpg" | relative_url }}){: width="40%"}
 
-![]({{ "/assets/images/1566186637028.jpg" | relative_url }}){: width="100%" height="100%"}
+![QueensTown]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186634738.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186639182.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186637028.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186641439.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186639182.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186643382.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186641439.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186649114.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186643382.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186651759.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186649114.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186658008.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186651759.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186660718.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186658008.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186663174.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186660718.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186665198.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186663174.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186669195.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186665198.jpg" | relative_url }})
 
-![]({{ "/assets/images/1566186671563.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186669195.jpg" | relative_url }})
 
-![번지점프다리]({{ "/assets/images/1566186674092.jpg" | relative_url }}){: width="100%" height="100%"}
+![]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186671563.jpg" | relative_url }})
 
-![PaknSave]({{ "/assets/images/1566186679936.jpg" | relative_url }}){: width="100%" height="100%"}
+![번지점프다리]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186674092.jpg" | relative_url }})
 
-![PaknSave]({{ "/assets/images/1566186681830.jpg" | relative_url }}){: width="100%" height="100%"}
+![PaknSave]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186679936.jpg" | relative_url }})
+
+![PaknSave]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186681830.jpg" | relative_url }})
