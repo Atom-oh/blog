@@ -54,7 +54,7 @@ tag: [Travel, NewZealand, prologue]
 |---|---|---|
 |[3월29일]({{ "newzealand-start"    | relative_url }})  ||인천공항 출발|
 |[3월30일]({{ "newzealand-auckland" | relative_url }})  ||오클랜드 공항도착 및 타카푸나 비치|
-|3월31일||Mt.Eden, SkyTower|
+|[3월31일]({{ "newzealand-skytower" | relative_url }})  ||Mt.Eden, SkyTower|
 |4월1일||Hot water beach|
 |4월2일||Hobbiton Movie set|
 |4월3일||Rotorua, Agrodome, Te Puia, Polynesian Spa|
@@ -62,7 +62,7 @@ tag: [Travel, NewZealand, prologue]
 |4월5일||Wellington|
 |4월6일||Wellington Te Papa Museum|
 |4월7일||Ferry, KaiKoura|
-|4월8일||Castle Hill, ChristChurch|
+|[4월8일]({{ "newzealand-castlehill"    | relative_url }})  ||Castle Hill, ChristChurch|
 |4월9일||Lake Tekapo, University of Canterbury Mt John Observatory|
 |4월10일||Lake Pukaki, Clay Cliffs, Wanaka|
 |4월11일||Puzzling world, Omarama|

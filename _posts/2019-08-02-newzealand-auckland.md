@@ -3,7 +3,7 @@ layout: post
 title: "New Zealand: Auckland"
 img: 2019-08-02-newzealand-auckland/1562825494769.jpg
 description: Takapuna Beach Holidaypark
-tag: [Travel, NewZealand, Moeraki]
+tag: [Travel, NewZealand, Auckland]
 ---
 
 ## NZ Day 2. Auckland 공항 도착 및 캠퍼밴 인수
