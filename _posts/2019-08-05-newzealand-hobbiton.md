@@ -12,7 +12,7 @@ tag: [Travel, NewZealand, Hobbit]
 
 실제로 가보니 영화 속 동화같은 세상이 펼쳐져 있는 금방이라도 호빗이 튀어나올 것 같은 현실에서 한번도 본적이 없는 풍경이다.
 
-![map]({{ "/assets/images/2019-08-05-newzealand-hobbiton/Screenshot_20190723-122942_Maps.jpg"   | relative_url }}){: width="40%"}
+![map]({{ "/assets/images/2019-08-05-newzealand-hobbiton/Screenshot_20190723-122942_Maps.jpg"   | relative_url }}){: width="60%"}
 
 ![]({{ "/assets/images/2019-08-05-newzealand-hobbiton/1563852233687.jpg"    | relative_url }})
 

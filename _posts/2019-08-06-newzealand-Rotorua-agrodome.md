@@ -17,7 +17,7 @@ tag: [Travel, NewZealand, Rotorua, Agrodome]
 
 이곳에 오니 문득 호주여행때 들린 파라다이스 컨츄리 농장이 생각나는군요~!
 
-![map]({{"/assets/images/2019-08-06-newzealand-Rotorua-agrodome/Screenshot_20190724-091557_Maps.jpg"   | relative_url }}){: width="40%"}
+![map]({{"/assets/images/2019-08-06-newzealand-Rotorua-agrodome/Screenshot_20190724-091557_Maps.jpg"   | relative_url }}){: width="60%"}
 
 ![]({{"/assets/images/2019-08-06-newzealand-Rotorua-agrodome/1563927214760.jpg" | relative_url }})
 

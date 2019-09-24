@@ -2079,6 +2079,7 @@ cite {
     float: left;
     width: 32.333%;
     margin: 0 0.5% 1% 0.5%;
+    padding-top: 32%;
     overflow: hidden;
     transition: transform 0.4s; }
     .chapters .chapter a {
@@ -2086,7 +2087,12 @@ cite {
     .chapters .chapter img {
       width: 100%;
       vertical-align: middle;
-      transition: all 0.4s; }
+      transition: all 0.4s;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0; }
       .chapters .chapter img:hover {
         transform: scale(1.5); }
   .chapters .chapter_inner {

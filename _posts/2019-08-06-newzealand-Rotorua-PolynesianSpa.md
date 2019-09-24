@@ -16,7 +16,7 @@ tag: [Travel, NewZealand, Rotorua, PolynesianSpa]
 
 온천욕을 즐기고 Pak`n Save에 들려 간단히 장보기!  꼭 코스트코 같은 창고형 마트로 제일 저렴하고 품질도 좋아보인다.
 
-![map]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/Screenshot_20190725-131222_Maps.jpg" | relative_url }}){:width="40%"}
+![map]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/Screenshot_20190725-131222_Maps.jpg" | relative_url }}){:width="60%"}
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027544416.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027549968.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027553606.jpg" | relative_url }})
@@ -29,7 +29,3 @@ tag: [Travel, NewZealand, Rotorua, PolynesianSpa]
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027583262.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027586534.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027589961.jpg" | relative_url }})
-![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027610608.jpg" | relative_url }})
-![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027612496.jpg" | relative_url }})
-![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027614224.jpg" | relative_url }})
-![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027616050.jpg" | relative_url }})

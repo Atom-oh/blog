@@ -14,7 +14,7 @@ tag: [Travel, NewZealand, Rotorua, TePuia]
 
 음식을 땅에 묻고 지열만으로 음식을 익힌다는 마오리족의 전통요리 항이 음식도 맛볼수 있었다.
 
-![]({{"/assets/images/2019-08-06-newzealand-Rotorua-Tepuia/Screenshot_20190725-131029_Maps.jpg" | relative_url}}){: width="40%"}
+![]({{"/assets/images/2019-08-06-newzealand-Rotorua-Tepuia/Screenshot_20190725-131029_Maps.jpg" | relative_url}}){: width="60%"}
 ![]({{ "/assets/images/2019-08-06-newzealand-Rotorua-Tepuia/1563928378834.jpg
 "   | relative_url }})
 
