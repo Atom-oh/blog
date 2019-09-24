@@ -57,7 +57,7 @@ tag: [Travel, NewZealand, prologue]
 |[3월31일]({{ "newzealand-skytower" | relative_url }})  ||Mt.Eden, SkyTower|
 |[4월1일]({{ "newzealand-hotwaterbeach"  | relative_url }})  ||Hot water beach|
 |[4월2일]({{ "newzealand-hobbiton"  | relative_url }})  ||Hobbiton Movie set|
-|4월3일||Rotorua, Agrodome, Te Puia, Polynesian Spa|
+|[4월3일]({{ "newzealand-Rotorua-Tepuia"    | relative_url}})   ||Rotorua, Agrodome, Te Puia, Polynesian Spa|
 |4월4일||Redwoods Treewalk, Lake Taupo|
 |4월5일||Wellington|
 |4월6일||Wellington Te Papa Museum|
