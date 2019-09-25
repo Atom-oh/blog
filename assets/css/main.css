@@ -2079,7 +2079,7 @@ cite {
     float: left;
     width: 32.333%;
     margin: 0 0.5% 1% 0.5%;
-    padding-top: 32%;
+    padding-top: 21%;
     overflow: hidden;
     transition: transform 0.4s; }
     .chapters .chapter a {
@@ -2586,6 +2586,7 @@ cite {
     padding: 2rem 0; }
     .chapters .chapter {
       width: 49%;
+      padding-top: 32%;
       margin: 0 0.5% 1% 0.5%; } }
 @media only screen and (max-width: 768px) {
   #banner .content {
@@ -2657,6 +2658,7 @@ cite {
     padding: 2rem 0; }
     .chapters .chapter {
       width: 99%;
+      padding-top: 66%;
       margin: 0 0.5% 2% 0.5%; }
 
   .copyright p {
