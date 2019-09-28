@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Polynesian Spa"
 img: 2019-08-06-newzealand-Rotorua-PolynesianSpa/1564027544416.jpg
 description: 관광 후 스파로 몸풀기
+date: 2019-04-03 17:10:00 +1200
 tag: [Travel, NewZealand, Rotorua, PolynesianSpa]
 ---
 

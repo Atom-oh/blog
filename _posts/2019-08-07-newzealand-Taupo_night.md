@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Taupo milkyway"
 img: 2019-08-07-newzealand-Taupo/1564099919813.jpg
 description: 타우포의 밤
+date: 2019-04-04 23:00:00 +1200
 tag: [Travel, NewZealand, Taupo, Milkyway]
 ---
 

@@ -4,6 +4,7 @@ title: "New Zealand: Hobbitton Movie Set"
 img: 2019-08-05-newzealand-hobbiton/1563852254153.jpg
 description: 호빗마을 투어
 tag: [Travel, NewZealand, Hobbit]
+date: 2019-04-02
 ---
 
 ## NZ Day 5. 호빗마을 투어

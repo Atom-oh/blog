@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Rotorua morning"
 img: 2019-08-07-newzealand-Rotorua-morning//1564027610608.jpg
 description: 타우포로 떠나기 전 간단한 아침식사
+date: 2019-04-04 08:00:00 +1200
 tag: [Travel, NewZealand, Rotorua]
 ---
 

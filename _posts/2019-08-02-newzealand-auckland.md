@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Auckland"
 img: 2019-08-02-newzealand-auckland/1562825494769.jpg
 description: Takapuna Beach Holidaypark
+date: 2019-03-30
 tag: [Travel, NewZealand, Auckland]
 ---
 

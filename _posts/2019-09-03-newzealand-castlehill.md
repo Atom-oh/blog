@@ -2,6 +2,7 @@
 layout: post
 title: "New Zealand: Castle Hill"
 img: 2019-09-03-newzealand-castlehill/1564632735624.jpg
+date: 2019-04-08
 description: Fantastic views
 tag: [Travel, NewZealand, Castle Hill]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Agrodome"
 img: 2019-08-06-newzealand-Rotorua-agrodome/1563927251803.jpg
 description: 아그로돔 투어
+date: 2019-04-03 09:30:00 +1200
 tag: [Travel, NewZealand, Rotorua, Agrodome]
 ---
 

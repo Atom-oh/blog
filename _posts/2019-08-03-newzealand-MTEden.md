@@ -4,6 +4,7 @@ title: "New Zealand: Mt Eden"
 img: 2019-08-03-newzealand-MTEden/1562906862854.jpg
 description: Takapuna Beach Holidaypark
 tag: [Travel, NewZealand, Mt.Eden]
+date: 2019-03-31 12:35:00 +1200
 ---
 
 ## NZ Day 3. Auckland Mt Eden

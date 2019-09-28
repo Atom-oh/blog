@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Moeraki"
 img: 2019-08-30-newzealand-moeraki/1567137310983.jpg
 description: Moeraki boulders
+date: 2019-04-17
 tag: [Travel, NewZealand, Moeraki]
 ---
 

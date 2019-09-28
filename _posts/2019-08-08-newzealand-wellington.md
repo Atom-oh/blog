@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Way to Wellington"
 img: 2019-08-08-newzealand-wellington/1564100396927.jpg
 description: 타우포에서 웰링턴으로 가는 여정
+date: 2019-04-05 10:00:00 +1200
 tag: [Travel, NewZealand, Wellington]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: TePuia"
 img: 2019-08-06-newzealand-Rotorua-Tepuia/1563928378834.jpg
 description: 테푸이아 활화산 관광
+date: 2019-04-03 12:20:00 +1200
 tag: [Travel, NewZealand, Rotorua, TePuia]
 ---
 

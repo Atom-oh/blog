@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: SkyTower"
 img: 2019-08-03-newzealand-skytower/1563150042180.jpg
 description: Auckland 시내 구경
+date: 2019-03-31 15:35:00 +1200
 tag: [Travel, NewZealand, SkyTower]
 ---
 

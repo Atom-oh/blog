@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Start"
 img: 2019-08-01-newzealand-start/1563149435231.jpg
 description: New Zealand 첫발을 디디다!
+date: 2019-03-29
 tag: [Travel, NewZealand, prologue]
 ---
 
@@ -58,10 +59,10 @@ tag: [Travel, NewZealand, prologue]
 |[4월1일]({{ "newzealand-hotwaterbeach"  | relative_url }})  ||Hot water beach|
 |[4월2일]({{ "newzealand-hobbiton"  | relative_url }})  ||Hobbiton Movie set|
 |[4월3일]({{ "newzealand-Rotorua-Tepuia"    | relative_url}})   ||Rotorua, Agrodome, Te Puia, Polynesian Spa|
-|4월4일||Redwoods Treewalk, Lake Taupo|
-|4월5일||Wellington|
-|4월6일||Wellington Te Papa Museum|
-|4월7일||Ferry, KaiKoura|
+|[4월4일]({{ "newzealand-RedwoodTree"   | relative_url}})   ||Redwoods Treewalk, Lake Taupo|
+|[4월5일]({{ "newzealand-wellington"    | relative_url}})   ||Wellington|
+|[4월6일]({{ "newzealand-wellington-downtown"   | relative_url }})  ||Wellington Te Papa Museum|
+|[4월7일]({{ "newzealand-headingToSouth"    | relative_url }})  ||Ferry, KaiKoura|
 |[4월8일]({{ "newzealand-castlehill"    | relative_url }})  ||Castle Hill, ChristChurch|
 |4월9일||Lake Tekapo, University of Canterbury Mt John Observatory|
 |4월10일||Lake Pukaki, Clay Cliffs, Wanaka|

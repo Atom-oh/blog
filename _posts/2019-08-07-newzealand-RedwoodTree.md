@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Redwood Tree Walk"
 img: 2019-08-07-newzealand-RedwoodTree/1564029339621.jpg
 description: 산책하기 좋은 산내음 가득한 곳
+date: 2019-04-04 13:00:00 +1200
 tag: [Travel, NewZealand, Rotorua, RedwoodTree]
 ---
 

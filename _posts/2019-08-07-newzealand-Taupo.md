@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Taupo"
 img: 2019-08-07-newzealand-Taupo/1564099104993.jpg
 description: 북섬의 가장 큰 호수 타우포
+date: 2019-04-04 17:00:00 +1200
 tag: [Travel, NewZealand, Taupo]
 ---
 

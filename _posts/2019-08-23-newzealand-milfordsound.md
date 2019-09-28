@@ -2,7 +2,7 @@
 layout: post
 title: "New Zealand: Milford Sound"
 img: 2019-08-23-newzealand-milfordsound/1566273727084.jpg # Add image post (optional)
-date: 2019-08-23 1:55:00 +0300
+date: 2019-04-15
 description:  밀포드 사운드 가는 길 # Add post description (optional)
 tag: [Travel, NewZealand, MilfordSound]
 ---

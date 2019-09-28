@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Wellington Te Papa, Cuba Street"
 img: 2019-08-09-newzealand-wellington-downtown/1564101388424.jpg
 description: 웰링턴 구경
+date: 2019-04-06 13:00:00 +1200
 tag: [Travel, NewZealand, Wellington, TePapa, KubaStreet]
 ---
 

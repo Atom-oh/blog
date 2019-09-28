@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Return motorhome"
 img: 2019-09-10-newzealand-SouthToNorth/1568088545329.jpg
 description: Final day of the trip
+date: 2019-04-20
 tag: [Travel, NewZealand, ChristChurch,Auckland]
 ---
 

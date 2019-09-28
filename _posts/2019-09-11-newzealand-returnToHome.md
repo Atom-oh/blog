@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Return to home"
 img: 2019-09-11-newzealand-returnToHome/1568175217972.jpg
 description: 한국으로 복귀하며
+date: 2019-04-21
 tag: [Travel, NewZealand, IncheonAirport ,Auckland]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: 선재도 뻘다방
 img: 2019-08-27-daebu-island/1566872153067.jpg # Add image post (optional)
 date: 2019-08-27 1:55:00 +0300
+date: 2019-08-25
 description:  한국판 발리
 tag: [뻘다방, 발리, 선재도, 대부도]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "New Zealand: Cromwell lookout"
 img: 2019-08-28-cromwell-lookout/1566903544856.jpg
-date: 2019-08-28 1:55:00 +0300
+date: 2019-04-16
 description: New Zealand Day 19 of 24 남섬 Cromwell 
 tag: [Travel, NewZealand, Cromwell]
 ---

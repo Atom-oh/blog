@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Hot water Beach"
 img: 2019-08-04-newzealand-hotwaterbeach/1563756136642.jpg
 description: 비오는 날
+date: 2019-04-01 13:00:00 +1200
 tag: [Travel, NewZealand, HotWaterBeach]
 ---
 

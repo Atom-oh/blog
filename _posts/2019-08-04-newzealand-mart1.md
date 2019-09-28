@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: 마트 장보기"
 img: 2019-08-04-newzealand-mart1/1568868654373.jpg
 description: 비오는 날
+date: 2019-04-01 10:00:00 +1200
 tag: [Travel, NewZealand, 마트]
 ---
 

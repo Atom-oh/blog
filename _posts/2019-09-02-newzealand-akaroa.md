@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Akaroa"
 img: 2019-09-02-newzealand-akaroa/1567396936442.jpg
 description: Akaroa.. moving to Christ Church
+date: 2019-04-18
 tag: [Travel, NewZealand, Akaroa]
 ---
 

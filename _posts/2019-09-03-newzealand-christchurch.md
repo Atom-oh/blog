@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Christ Church"
 img: 2019-09-03-newzealand-christchurch/1567483459432.jpg
 description: Christ Church, heading to end
+date: 2019-04-19
 tag: [Travel, NewZealand, ChristChurch]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "New Zealand: Dunedin Tunnel beach"
 img: 2019-08-29-Dunedin/1566964337187.jpg
 description: New Zealand Day 19 of 24 남섬 Dunedin,Tunnel beach  
+date: 2019-04-16
 tag: [Travel, NewZealand, Dunedin, TunnelBeach]
 ---
 
