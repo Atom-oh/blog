@@ -4,7 +4,7 @@ title: "New Zealand: Wellington Te Papa, Cuba Street"
 img: 2019-08-09-newzealand-wellington-downtown/1564101388424.jpg
 description: 웰링턴 구경
 date: 2019-04-06 13:00:00 +1200
-tag: [Travel, NewZealand, Wellington, TePapa, KubaStreet]
+tag: [Travel, NewZealand, Wellington, TePapa, CubaStreet]
 ---
 
 ## NZ 9. 웰링턴 - [테파파 국립박물관](https://www.tepapa.govt.nz/), [쿠바 스트리트](https://en.wikipedia.org/wiki/Cuba_Street,_Wellington)
