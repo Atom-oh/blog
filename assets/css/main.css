@@ -2711,7 +2711,14 @@ cite {
 
   .social_footer a {
     padding: 0.3rem 0.8rem;
-    font-size: 1.1rem; } }
+    font-size: 1.1rem; }
+
+  .post_content {
+    max-width: 100%;
+    margin: 7rem auto 7rem; }
+
+  .post_wrapper, .entry_content {
+    padding: 0 0.1rem; } }
 @media only screen and (max-width: 320px) {
   .post header .post_meta {
     padding: 0.1rem 0.8rem;
