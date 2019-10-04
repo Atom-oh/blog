@@ -21,7 +21,7 @@ tag: [Travel, NewZealand, IncheonAirport ,Auckland]
 
 통장을 텅장으로 만든 뉴질랜드~!!
 
-![map]({{ "assets/images/2019-09-11-newzealand-returnToHome/Screenshot_20190911-131450_Maps.jpg" | relative_url }})
+![map]({{ "assets/images/2019-09-11-newzealand-returnToHome/Screenshot_20190911-131450_Maps.jpg" | relative_url }}){:width="60%"}
 ![오클랜드공항라운지]({{ "assets/images/2019-09-11-newzealand-returnToHome/1568175206321.jpg" | relative_url }})
 ![오클랜드공항라운지]({{ "assets/images/2019-09-11-newzealand-returnToHome/1568175208359.jpg" | relative_url }})
 ![오클랜드공항라운지]({{ "assets/images/2019-09-11-newzealand-returnToHome/1568175210245.jpg" | relative_url }})

@@ -25,7 +25,7 @@ tag: [Travel, NewZealand, QueensTown]
 
 산책을 마치고 역시 빠질수 없는 고기~!
 
-![map]({{ "assets/images/2019-08-12-newzealand-queenstown/Screenshot_20190911-181755_Maps.jpg" | relative_url }}){: width="40%"}
+![map]({{ "assets/images/2019-08-12-newzealand-queenstown/Screenshot_20190911-181755_Maps.jpg" | relative_url }}){:width="60%"}
 
 ![QueensTown]({{ "/assets/images/2019-08-12-newzealand-queenstown/1566186634738.jpg" | relative_url }})
 

@@ -18,7 +18,7 @@ tag: [Travel, NewZealand, Moeraki]
 오아마루는 세계 최대의 블루펭귄 서식지로 야간에는 펭귄을 볼수 있다.  
 관광청에 가면 펭귄이 출몰하는 시간대가 있으니 시간을 맞춰나가면 된다.
 
-![map]({{ "/assets/images/2019-08-30-newzealand-moeraki/Screenshot_20190830-125636_Maps.jpg" | relative_url }}){: width="40%"}
+![map]({{ "/assets/images/2019-08-30-newzealand-moeraki/Screenshot_20190830-125636_Maps.jpg" | relative_url }}){:width="60%"}
 
 ![]({{ "/assets/images/2019-08-30-newzealand-moeraki/1567137310983.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-30-newzealand-moeraki/1567137312899.jpg" | relative_url }})

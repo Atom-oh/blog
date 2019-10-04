@@ -16,7 +16,7 @@ tag: [Travel, NewZealand, Akaroa]
 
 가는 길은 매우 험난하니 캠핑카로는 도전을 권장하지 않는다.
 
-![map]({{ "/assets/images/2019-09-02-newzealand-akaroa/Screenshot_20190902-130415_Maps.jpg" | relative_url }}){: width="40%"}
+![map]({{ "/assets/images/2019-09-02-newzealand-akaroa/Screenshot_20190902-130415_Maps.jpg" | relative_url }}){:width="60%"}
 ![]({{ "/assets/images/2019-09-02-newzealand-akaroa/1567396951742.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-09-02-newzealand-akaroa/1567396900383.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-09-02-newzealand-akaroa/1567396903846.jpg" | relative_url }})

@@ -26,7 +26,7 @@ tag: [Travel, NewZealand, ChristChurch,Auckland]
 
 캠핑카에서 20일이 넘게 생활하다가 호텔에 하루 묶으니 너무 편하고 좋네요~
 
-![map]({{ "assets/images/2019-09-10-newzealand-SouthToNorth/Screenshot_20190910-131057_Maps.jpg" | relative_url }}){: width="40%"}
+![map]({{ "assets/images/2019-09-10-newzealand-SouthToNorth/Screenshot_20190910-131057_Maps.jpg" | relative_url }}){:width="60%"}
 ![MotorhomeRepublic]({{ "assets/images/2019-09-10-newzealand-SouthToNorth/1568088520888.jpg" | relative_url }})
 ![MotorhomeRepublic]({{ "assets/images/2019-09-10-newzealand-SouthToNorth/1568088523456.jpg" | relative_url }})
 ![]({{ "assets/images/2019-09-10-newzealand-SouthToNorth/1568088525423.jpg" | relative_url }})

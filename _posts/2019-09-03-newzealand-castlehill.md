@@ -2,7 +2,7 @@
 layout: post
 title: "New Zealand: Castle Hill"
 img: 2019-09-03-newzealand-castlehill/1564632735624.jpg
-date: 2019-04-08
+date: 2019-04-08 12:40:00 +1200
 description: Fantastic views
 tag: [Travel, NewZealand, Castle Hill]
 ---
@@ -17,7 +17,7 @@ tag: [Travel, NewZealand, Castle Hill]
 
 그림같은 자연은 너무 멋지다.
 
-![map]({{ "assets/images/2019-09-03-newzealand-castlehill/Screenshot_20190801-131401_Maps.jpg" | relative_url }}){: width="40%"}
+![map]({{ "assets/images/2019-09-03-newzealand-castlehill/Screenshot_20190801-131401_Maps.jpg" | relative_url }}){:width="60%"}
 ![]({{ "assets/images/2019-09-03-newzealand-castlehill/1564632725783.jpg" | relative_url }})
 ![]({{ "assets/images/2019-09-03-newzealand-castlehill/1564632779139.jpg" | relative_url }})
 ![]({{ "assets/images/2019-09-03-newzealand-castlehill/1564632776629.jpg" | relative_url }})

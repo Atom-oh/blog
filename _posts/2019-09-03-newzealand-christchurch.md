@@ -26,7 +26,7 @@ tag: [Travel, NewZealand, ChristChurch]
 저녁메뉴는 선택의 여지없이 영업하는 음식점으로!  
 뉴질랜드 로컬피자집 헬피자 테이크아웃! 토핑 8개를 선택할 수 있는 피자메뉴에 내가 좋아하는 아보카도와 연어, 치킨, 바베큐, 쉬림프등등 다양한 토핑으로 꽉꽉채운 푸짐한 피자로 저녁을 해결할수 있었다.
 
-![map]({{ "assets/images/2019-09-03-newzealand-christchurch/Screenshot_20190903-130459_Maps.jpg" | relative_url }}){: width="40%"}
+![map]({{ "assets/images/2019-09-03-newzealand-christchurch/Screenshot_20190903-130459_Maps.jpg" | relative_url }}){:width="40%"}
 ![]({{ "assets/images/2019-09-03-newzealand-christchurch/1567483459432.jpg" | relative_url }})
 ![]({{ "assets/images/2019-09-03-newzealand-christchurch/1567483465427.jpg" | relative_url }})
 ![]({{ "assets/images/2019-09-03-newzealand-christchurch/1567483461754.jpg" | relative_url }})

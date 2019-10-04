@@ -11,7 +11,7 @@ tag: [Travel, NewZealand, Dunedin, TunnelBeach]
 
 터널비치 워크웨이에는 왕복1시간 걸리는 쉬운코스로 영화에나 나올듯한 아름다운 자연경관이 펼쳐진다.
 
-![map]({{ "/assets/images/2019-08-29-Dunedin/Screenshot_20190829-130318_Maps.jpg" | relative_url }}){: width="40%" }
+![map]({{ "/assets/images/2019-08-29-Dunedin/Screenshot_20190829-130318_Maps.jpg" | relative_url }}){:width="60%" }
 ![]({{ "/assets/images/2019-08-29-Dunedin/1566964323901.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-29-Dunedin/1566964326411.jpg" | relative_url }})
 ![]({{ "/assets/images/2019-08-29-Dunedin/1566964328478.jpg" | relative_url }})

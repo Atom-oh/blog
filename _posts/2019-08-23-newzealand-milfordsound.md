@@ -14,7 +14,7 @@ tag: [Travel, NewZealand, MilfordSound]
 오전 9시에 나서서 오후 10시가 되어야 돌아왔는데 즐거워 하고 힘들어하지 않는 아들이 대견스러웠다.  
 사실 가는길이 너무 험난하다는 소리를 많이 들어서 투어버스로 이동했는데 생각보다 힘들어보이진 않았다. 오히려 가는길에 너무 아름다운 풍경이 많아서 직접 운전을 했으면 아름다운 풍경에서 잠시 멈춰 사진기를 쉴새 없이 눌렀을것 같아 아쉬웠다.
 
-![map1]({{ "/assets/images/2019-08-23-newzealand-milfordsound/Screenshot_20190820-130322_Maps.jpg" | relative_url }}){: width="40%" height="40%"}
+![map1]({{ "/assets/images/2019-08-23-newzealand-milfordsound/Screenshot_20190820-130322_Maps.jpg" | relative_url }}){:width="60%" height="40%"}
 
 ![]({{ "/assets/images/2019-08-23-newzealand-milfordsound/1566273748148.jpg" | relative_url }})
 
