@@ -39,7 +39,7 @@ mailchimp: https://gmail.us3.list-manage.com/subscribe/post?u=2ec260a4e064ca146f
 analytics: UA-146505718-1
 
 # Paginate
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
 
 # Build settings
