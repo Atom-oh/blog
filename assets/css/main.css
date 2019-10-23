@@ -2403,6 +2403,30 @@ cite {
   .recent_box .recent_list .recent_item_post_3 {
     background-image: url(../images/sweden.jpg); }
 
+.PageNavigation {
+  padding: 0.2rem 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+  margin-bottom: 1rem; }
+  .PageNavigation .prev {
+    float: left; }
+  .PageNavigation .next {
+    float: right; }
+  .PageNavigation a {
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 0.1rem;
+    margin-bottom: 0.3rem;
+    padding: 0.5rem 1rem;
+    color: #6e6e6e;
+    background-color: #e6e6e6;
+    display: inline-block;
+    border-style: outset;
+    transition: all 0.35s ease-in-out; }
+    .PageNavigation a:hover {
+      background-color: #d25469;
+      color: #ffffff; }
+
 #tags {
   background-color: #ffffff;
   padding: 2rem 1rem 4rem;
