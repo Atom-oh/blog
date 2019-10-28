@@ -53,21 +53,21 @@ tag: [Travel, NewZealand, prologue]
 
 |날짜|   |여정|
 |---|---|---|
-|[3월29일]({{ "newzealand-start"    | relative_url }})  ||인천공항 출발|
-|[3월30일]({{ "newzealand-auckland" | relative_url }})  ||오클랜드 공항도착 및 타카푸나 비치|
-|[3월31일]({{ "newzealand-skytower" | relative_url }})  ||Mt.Eden, SkyTower|
-|[4월1일]({{ "newzealand-hotwaterbeach"  | relative_url }})  ||Hot water beach|
-|[4월2일]({{ "newzealand-hobbiton"  | relative_url }})  ||Hobbiton Movie set|
-|[4월3일]({{ "newzealand-Rotorua-Tepuia"    | relative_url}})   ||Rotorua, Agrodome, Te Puia, Polynesian Spa|
-|[4월4일]({{ "newzealand-RedwoodTree"   | relative_url}})   ||Redwoods Treewalk, Lake Taupo|
-|[4월5일]({{ "newzealand-wellington"    | relative_url}})   ||Wellington|
+|[3월29일]({{ "newzealand-start"                | relative_url }})  ||인천공항 출발|
+|[3월30일]({{ "newzealand-auckland"             | relative_url }})  ||오클랜드 공항도착 및 타카푸나 비치|
+|[3월31일]({{ "newzealand-skytower"             | relative_url }})  ||Mt.Eden, SkyTower|
+|[4월1일]({{ "newzealand-hotwaterbeach"         | relative_url }})  ||Hot water beach|
+|[4월2일]({{ "newzealand-hobbiton"              | relative_url }})  ||Hobbiton Movie set|
+|[4월3일]({{ "newzealand-Rotorua-Tepuia"        | relative_url}})   ||Rotorua, Agrodome, Te Puia, Polynesian Spa|
+|[4월4일]({{ "newzealand-RedwoodTree"           | relative_url}})   ||Redwoods Treewalk, Lake Taupo|
+|[4월5일]({{ "newzealand-wellington"            | relative_url}})   ||Wellington|
 |[4월6일]({{ "newzealand-wellington-downtown"   | relative_url }})  ||Wellington Te Papa Museum|
-|[4월7일]({{ "newzealand-headingToSouth"    | relative_url }})  ||Ferry, KaiKoura|
-|[4월8일]({{ "newzealand-castlehill"    | relative_url }})  ||Castle Hill, ChristChurch|
-|4월9일||Lake Tekapo, University of Canterbury Mt John Observatory|
-|4월10일||Lake Pukaki, Clay Cliffs, Wanaka|
-|4월11일||Puzzling world, Omarama|
-|4월12일||Aoraki/Mt Cook, Hooker vally Tracks|
+|[4월7일]({{ "newzealand-headingToSouth"        | relative_url }})  ||Ferry, KaiKoura|
+|[4월8일]({{ "newzealand-castlehill"            | relative_url }})  ||Castle Hill, ChristChurch|
+|[4월9일]({{ "newzealand-mtJohn"                | relative_url }})  ||Lake Tekapo, University of Canterbury Mt John Observatory|
+|[4월10일]({{ "newzealand-pukaki"               | relative_url }})  ||Lake Pukaki, Clay Cliffs, Wanaka|
+|[4월11일]({{ "newzealand-wanaka"               | relative_url }})  ||Puzzling world, Omarama|
+|[4월12일]({{ "newzealand-MtCook"   | relative_url }})  ||Aoraki/Mt Cook, Hooker vally Tracks|
 |4월13일||Queenstown, Luge Queenstown|
 |[4월14일]({{ "newzealand-queenstown"   | relative_url }})  ||Queenstown|
 |[4월15일]({{ "newzealand-milfordsound" | relative_url }})  ||Te Anau, Milford Sound|
