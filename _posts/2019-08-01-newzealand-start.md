@@ -47,7 +47,7 @@ tag: [Travel, NewZealand, prologue]
 
 전체 경로는 지도와 같다.
 
-![map]({{ "assets/images/2019-08-01-newzealand-start/map.png" | relative_url }}){: width="40%" height="40%"}
+![map]({{ "assets/images/2019-08-01-newzealand-start/map.png" | relative_url }}){:width="60%"}
 
 ### 3.전체 일정
 
@@ -67,16 +67,16 @@ tag: [Travel, NewZealand, prologue]
 |[4월9일]({{ "newzealand-mtJohn"                | relative_url }})  ||Lake Tekapo, University of Canterbury Mt John Observatory|
 |[4월10일]({{ "newzealand-pukaki"               | relative_url }})  ||Lake Pukaki, Clay Cliffs, Wanaka|
 |[4월11일]({{ "newzealand-wanaka"               | relative_url }})  ||Puzzling world, Omarama|
-|[4월12일]({{ "newzealand-MtCook"   | relative_url }})  ||Aoraki/Mt Cook, Hooker vally Tracks|
-|4월13일||Queenstown, Luge Queenstown|
-|[4월14일]({{ "newzealand-queenstown"   | relative_url }})  ||Queenstown|
-|[4월15일]({{ "newzealand-milfordsound" | relative_url }})  ||Te Anau, Milford Sound|
-|[4월16일]({{ "newzealand-Dunedin"  | relative_url }})      ||Tunnel Beach, Dunedin|
-|[4월17일]({{ "newzealand-moeraki"  | relative_url }})      ||Moeraki Boulders, Oamaru|
-|[4월18일]({{ "newzealand-akaroa"   | relative_url }})      ||Akaroa, ChristChurch|
-|[4월19일]({{ "newzealand-christchurch" | relative_url }})  ||Botanic Gardens, ChristChurch|
-|[4월20일]({{ "newzealand-SouthToNorth" | relative_url }})  ||Maui Motorhome rentals, Auckland|
-|[4월21일]({{ "newzealand-returnToHome" | relative_url }})  ||Auckland Airport, Incheon Airport|
+|[4월12일]({{ "newzealand-MtCook"               | relative_url }})  ||Aoraki/Mt Cook, Hooker vally Tracks|
+|[4월13일]({{ "newzealand-queenstown-luge"      | relative_url }})  ||Queenstown, Luge Queenstown|
+|[4월14일]({{ "newzealand-queenstown"           | relative_url }})  ||Queenstown|
+|[4월15일]({{ "newzealand-milfordsound"         | relative_url }})  ||Te Anau, Milford Sound|
+|[4월16일]({{ "newzealand-Dunedin"              | relative_url }})  ||Tunnel Beach, Dunedin|
+|[4월17일]({{ "newzealand-moeraki"              | relative_url }})  ||Moeraki Boulders, Oamaru|
+|[4월18일]({{ "newzealand-akaroa"               | relative_url }})  ||Akaroa, ChristChurch|
+|[4월19일]({{ "newzealand-christchurch"         | relative_url }})  ||Botanic Gardens, ChristChurch|
+|[4월20일]({{ "newzealand-SouthToNorth"         | relative_url }})  ||Maui Motorhome rentals, Auckland|
+|[4월21일]({{ "newzealand-returnToHome"         | relative_url }})  ||Auckland Airport, Incheon Airport|
 
 ### 4.교통편
 

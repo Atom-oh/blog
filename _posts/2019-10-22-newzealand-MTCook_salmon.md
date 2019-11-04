@@ -4,7 +4,7 @@ title: "New Zealand: Mt Cook Salmon"
 img: 2019-10-22-newzealand-MTCook_salmon/1565667636353.jpg
 date: 2019-04-10 14:07:00 +1200
 description: 테카포 호수를 바라보는 천문대에서
-tag: [Travel, NewZealand, Tekapo]
+tag: [Travel, NewZealand, Tekapo, salmon, 맛집]
 ---
 
 ## NZ Day 13. 마운트 쿡 알파인 살몬

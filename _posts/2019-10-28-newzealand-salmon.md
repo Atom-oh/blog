@@ -4,7 +4,7 @@ title: "New Zealand: High Country Salmon"
 img: 2019-10-28-newzealand-salmon/1565756781668.jpg
 date: 2019-04-12 17:30:00 +1200
 description: 맛있는 연어
-tag: [Travel, NewZealand, salmon]
+tag: [Travel, NewZealand, salmon, 맛집]
 ---
 
 ## NZ Day 15. [하이 컨트리 살몬](http://www.highcountrysalmon.co.nz/)
