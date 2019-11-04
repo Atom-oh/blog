@@ -3,8 +3,8 @@ layout: post
 title: "New Zealand: Queenstown Flame"
 img: 2019-11-04-newzealand-queenstown-flame/1566186155059.jpg
 date: 2019-04-13 15:42:00 +1200
-description: 익사이팅한 루지 체험!
-tag: [Travel, NewZealand, Queenstown, Flame]
+description: 립이 맛있는 집
+tag: [Travel, NewZealand, Queenstown, Flame, 맛집]
 ---
 
 ## NZ Day 17. 퀸스타운 [플레임](https://www.flamegrill.co.nz/)
