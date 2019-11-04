@@ -11,7 +11,7 @@ url: "https://atomthink.com" # the base hostname & protocol for your site, e.g. 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Story of Atom # add banner title
-banner-desc: 일단 떠나자 # add banner description
+banner-desc: 사진으로 기록하는 일상 이야기 # add banner description
 
 # Author settings
 author-pic: me.jpg # your photo
