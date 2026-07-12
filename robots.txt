@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://atomthink.com/blog/sitemap.xml
+Sitemap: https://www.atomai.click/blog/sitemap.xml
